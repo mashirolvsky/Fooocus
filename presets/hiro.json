@@ -55,6 +55,7 @@
         "incase_2024_style_v2.safetensors": "https://huggingface.co/mashirolvsky/faves/blob/main/models/loras/incase_2024_style_v2.safetensors",
         "Artist_Style_v6.safetensors": "https://huggingface.co/mashirolvsky/faves/blob/main/models/loras/Artist_Style_v6.safetensors",
         "Smooth_Style_Pony.safetensors": "https://huggingface.co/mashirolvsky/faves/blob/main/models/loras/Smooth%20Style%202%20SDXL_LoRA_Pony%20Diffusion%20V6%20XL.safetensors",
+        "Popyay_Fantasy_Pony.safetensors": "https://huggingface.co/mashirolvsky/faves/blob/main/models/loras/Popyay_Fant5yP0ny.safetensors",
         "Heart_Fingers__Concept_Lora.safetensors": "https://huggingface.co/mashirolvsky/faves/blob/main/models/loras/https://huggingface.co/mashirolvsky/faves/blob/main/models/loras/Heart_Fingers__Concept_Lora-000007.safetensors"
     },
     "vae_downloads": {
