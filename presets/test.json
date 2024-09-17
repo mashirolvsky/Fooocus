@@ -6,23 +6,23 @@
     "default_loras": [
         [
             true,
-            "D2_Pony.safetensors",
+            "None",
             1.0
         ],
         [
             true,
-            "incase_2024_style_v2.safetensors",
-            0.8
+            "None",
+            1.0
         ],
         [
             true,
-            "GP_20somethingweird_PonyXL.safetensors",
-            0.5
+            "None",
+            1.0
         ],
         [
             true,
-            "cutesexyrobutts_style_xl_goofy.safetensors",
-            0.4
+            "None",
+            1.0
         ],
         [
             true,
