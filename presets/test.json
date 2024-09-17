@@ -35,7 +35,7 @@
     "default_sampler": "dpmpp_2m_sde",
     "default_scheduler": "karras",
     "default_performance": "Speed",
-    "default_prompt": "score_9, score_8_up, score_7_up, 1girl, solo, flat color, no lineart, ",
+    "default_prompt": "score_9, score_8_up, score_7_up, 1girl, solo, standing, from front, expressive lips, dynamic angle, big eyes, eyecatching, perfect face, __rTest__",
     "default_prompt_negative": "score_4, score_5, score_6, source_pony, source_furry, fewer digits, extra digits, watermark, signature, sketch, particles, deformed, bad anatomy, extra limbs, cropped, cropped legs, cropped torso, outside border",
     "default_styles": [
         "Fooocus Pony"
