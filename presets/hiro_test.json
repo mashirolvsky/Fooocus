@@ -61,7 +61,7 @@
         "BreastSlider_Pony.safetensors": "https://huggingface.co/mashirolvsky/Exxxtra_Foocus/resolve/main/TEST_/LoRA/BreastSlider_Pony_alpha1.0_rank4_noxattn_last.safetensors",
         "AssAdjust_alpha1_0.safetensors": "https://huggingface.co/mashirolvsky/Exxxtra_Foocus/resolve/main/TEST_/LoRA/Ass%20Adjust_alpha1.0_rank4_noxattn_last.safetensors",
         "3D_Animation_Diffusion_Pony_style.safetensors": "https://huggingface.co/mashirolvsky/Exxxtra_Foocus/resolve/main/TEST_/LoRA/3D_Animation_Diffusion_Pony_style.safetensors",
-        "Disney_princess_pony_v1.safetensors": "https://huggingface.co/mashirolvsky/Exxxtra_Foocus/resolve/main/TEST_/LoRA/princess_pony_v1.safetensors",
+        "princess_xl_v2": "https://huggingface.co/mashirolvsky/exxxtra_fooocus/resolve/main/TEST_/LoRA/princess_xl_v2.safetensors",
         "saigaaa_style.safetensors": "https://huggingface.co/mashirolvsky/Exxxtra_Foocus/resolve/main/TEST_/LoRA/saigaaaaaaasaigalisk_style.safetensors"
     },
     "vae_downloads": {
