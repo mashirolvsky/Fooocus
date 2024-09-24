@@ -51,12 +51,16 @@
         "cutesexyrobutts_style_xl_goofy.safetensors": "https://huggingface.co/mashirolvsky/faves/resolve/main/models/loras/cutesexyrobutts_style_xl_goofy.safetensors",
         "lilandava_PDXL.safetensors": "https://huggingface.co/mashirolvsky/faves/resolve/main/models/loras/Lilandava_PDXL.safetensors",
         "Vixon_Pony_g0th1cPXL.safetensors": "https://huggingface.co/mashirolvsky/faves/resolve/main/models/loras/Vixon_Pony_g0th1cPXL.safetensors",
+        "ahegao_v2.safetensors": "https://huggingface.co/mashirolvsky/Exxxtra_Foocus/resolve/main/TEST_/LoRA/ahegao_v2.safetensors",
         "GP_20somethingweird_PonyXL.safetensors": "https://huggingface.co/mashirolvsky/faves/resolve/main/models/loras/%5BGP%5D%20somethingweird%20%5BPony%20XL%5D.safetensors",
         "incase_2024_style_v2.safetensors": "https://huggingface.co/mashirolvsky/faves/resolve/main/models/loras/incase_2024_style_v2.safetensors",
         "Artist_Style_v6.safetensors": "https://huggingface.co/mashirolvsky/faves/resolve/main/models/loras/Artist_Style_v6.safetensors",
+        "Negarobo.safetensors": "https://huggingface.co/mashirolvsky/Exxxtra_Foocus/resolve/main/TEST_/LoRA/NegaroboLycoXL.safetensors",
         "Smooth_Style_Pony.safetensors": "https://huggingface.co/mashirolvsky/faves/resolve/main/models/loras/Smooth%20Style%202%20SDXL_LoRA_Pony%20Diffusion%20V6%20XL.safetensors",
         "Popyay_Fantasy_Pony.safetensors": "https://huggingface.co/mashirolvsky/faves/resolve/main/models/loras/Popyay_Fant5yP0ny.safetensors",
         "D2_Pony.safetensors": "https://huggingface.co/mashirolvsky/faves/resolve/main/models/loras/D2PonyXL_v003d-epoch6.safetensors",
+        "princess_xl_v2": "https://huggingface.co/mashirolvsky/exxxtra_fooocus/resolve/main/TEST_/LoRA/princess_xl_v2.safetensors",
+
         "Heart_Fingers__Concept_Lora.safetensors": "https://huggingface.co/mashirolvsky/faves/resolve/main/models/loras/Heart_Fingers__Concept_Lora-000007.safetensors"
     },
     "vae_downloads": {
