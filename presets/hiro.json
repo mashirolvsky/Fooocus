@@ -71,6 +71,10 @@
         "S1_Dramatic_Lighting_v2.safetensors": "https://huggingface.co/mashirolvsky/exxxtra_fooocus/resolve/main/TEST_2/lora/S1_Dramatic_Lighting_v2.safetensors",
         "inputwo.safetensors": "https://huggingface.co/mashirolvsky/exxxtra_fooocus/resolve/main/TEST_2/lora/inputwo.safetensors",
         "ManicPixie_V1.safetensors": "https://huggingface.co/mashirolvsky/exxxtra_fooocus/resolve/main/TEST_2/lora/ManicPixie_V1.safetensors",
+        "GLOSS2.safetensors": "https://huggingface.co/mashirolvsky/exxxtra_fooocus/resolve/main/TEST_2/lora/GLOSS2.safetensors",
+        "VelmaXL.safetensors": "https://huggingface.co/mashirolvsky/exxxtra_fooocus/resolve/main/TEST_2/lora/VelmaXL.safetensors",
+        "rizz_draw_1_1.safetensors": "https://huggingface.co/mashirolvsky/exxxtra_fooocus/resolve/main/TEST_2/lora/rizz_draw_1_1.safetensors",
+        "boltedonlips.safetensors": "https://huggingface.co/mashirolvsky/exxxtra_fooocus/resolve/main/TEST_2/lora/boltedonlips.safetensors",
         "BodyLicious.safetensors": "https://huggingface.co/mashirolvsky/exxxtra_fooocus/resolve/main/TEST_2/lora/BodyLicious.safetensors"
 
     },
