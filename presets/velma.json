@@ -1,0 +1,70 @@
+{
+    "default_model": "ponyDiffusionV6XL.safetensors",
+    "default_refiner": "None",
+    "default_refiner_switch": 0.5,
+    "default_vae": "ponyDiffusionV6XL_vae.safetensors",
+    "default_loras": [
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ]
+    ],
+    "default_cfg_scale": 8.0,
+    "default_sample_sharpness": 2.0,
+    "default_sampler": "dpmpp_3m_sde_gpu",
+    "default_scheduler": "karras",
+    "default_performance": "Quality",
+    "default_prompt": "score_9, score_8_up, score_7_up, 1girl, solo, velma dinkley, scooby doo, cartoonish, source_cartoon",
+    "default_prompt_negative": "score_4, score_5, score_6, source_pony, source_furry, fewer digits, extra digits, watermark, signature, sketch, particles, deformed, bad anatomy, extra limbs, cropped, cropped legs, cropped torso, outside border",
+    "default_styles": [
+        "Fooocus Pony"
+    ],
+    "default_aspect_ratio": "896*1152",
+    "default_overwrite_step": 20,
+    "default_inpaint_engine_version": "None",
+    "checkpoint_downloads": {
+        "ponyDiffusionV6XL.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/ponyDiffusionV6XL.safetensors",
+        "pdForAnime_v10": "https://huggingface.co/mashirolvsky/faves/resolve/main/models/ckpt/pdForAnime_v10.safetensors"
+    },
+    "embeddings_downloads": {},
+    "lora_downloads": {
+        "cutesexyrobutts_style_xl_goofy.safetensors": "https://huggingface.co/mashirolvsky/faves/resolve/main/models/loras/cutesexyrobutts_style_xl_goofy.safetensors",
+        "ahegao_v2.safetensors": "https://huggingface.co/mashirolvsky/Exxxtra_Foocus/resolve/main/TEST_/LoRA/ahegao_v2.safetensors",
+        "GP_20somethingweird_PonyXL.safetensors": "https://huggingface.co/mashirolvsky/faves/resolve/main/models/loras/%5BGP%5D%20somethingweird%20%5BPony%20XL%5D.safetensors",
+        "Nolineart_Artist_Style_v6.safetensors": "https://huggingface.co/mashirolvsky/faves/resolve/main/models/loras/Artist_Style_v6.safetensors",
+        "Negarobo.safetensors": "https://huggingface.co/mashirolvsky/Exxxtra_Foocus/resolve/main/TEST_/LoRA/NegaroboLycoXL.safetensors",
+        "D2_Pony.safetensors": "https://huggingface.co/mashirolvsky/faves/resolve/main/models/loras/D2PonyXL_v003d-epoch6.safetensors",
+        "nyalia_stylePony.safetensors": "https://huggingface.co/mashirolvsky/Exxxtra_Foocus/resolve/main/TEST_/LoRA/nyalia_stylePony.safetensors",
+        "lineart_incase_style_ponyxl.safetensors": "https://huggingface.co/mashirolvsky/Exxxtra_Foocus/resolve/main/TEST_/LoRA/incase_style_v3-1_ponyxl_ilff.safetensors",
+        "Smooth_Style_SDXL_LoRA_PDV6_XL.safetensors": "https://huggingface.co/mashirolvsky/Exxxtra_Foocus/resolve/main/TEST_/LoRA/Smooth_Style%202_SDXL_LoRA_PDV6_XL.safetensors",
+        "Raabta_Style_Pony.safetensors": "https://huggingface.co/mashirolvsky/Exxxtra_Foocus/resolve/main/TEST_/LoRA/Raabta_Style_Pony.safetensors",
+        "Nat_The_Lich.safetensors": "https://huggingface.co/mashirolvsky/Exxxtra_Foocus/resolve/main/TEST_/LoRA/Nat_The_Lich.safetensors",
+        "Expressive_H-000001.safetensors": "https://huggingface.co/mashirolvsky/Exxxtra_Foocus/resolve/main/TEST_/LoRA/Expressive_H-000001.safetensors",
+        "princess_xl_v2": "https://huggingface.co/mashirolvsky/exxxtra_fooocus/resolve/main/TEST_/LoRA/princess_xl_v2.safetensors",
+        "S1_Dramatic_Lighting_v2.safetensors": "https://huggingface.co/mashirolvsky/exxxtra_fooocus/resolve/main/TEST_2/lora/S1_Dramatic_Lighting_v2.safetensors"
+    },
+    "vae_downloads": {
+        "ponyDiffusionV6XL_vae.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/ponyDiffusionV6XL_vae.safetensors"
+    }
+}
