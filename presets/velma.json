@@ -41,11 +41,11 @@
         "Fooocus Pony"
     ],
     "default_aspect_ratio": "896*1152",
-    "default_overwrite_step": 20,
+    "default_overwrite_step": 30,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
         "ponyDiffusionV6XL.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/ponyDiffusionV6XL.safetensors",
-        "pdForAnime_v10": "https://huggingface.co/mashirolvsky/faves/resolve/main/models/ckpt/pdForAnime_v10.safetensors"
+        "pdForAnime_v10.safetensors": "https://huggingface.co/mashirolvsky/faves/resolve/main/models/ckpt/pdForAnime_v10.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
@@ -62,7 +62,14 @@
         "Nat_The_Lich.safetensors": "https://huggingface.co/mashirolvsky/Exxxtra_Foocus/resolve/main/TEST_/LoRA/Nat_The_Lich.safetensors",
         "Expressive_H-000001.safetensors": "https://huggingface.co/mashirolvsky/Exxxtra_Foocus/resolve/main/TEST_/LoRA/Expressive_H-000001.safetensors",
         "princess_xl_v2": "https://huggingface.co/mashirolvsky/exxxtra_fooocus/resolve/main/TEST_/LoRA/princess_xl_v2.safetensors",
-        "S1_Dramatic_Lighting_v2.safetensors": "https://huggingface.co/mashirolvsky/exxxtra_fooocus/resolve/main/TEST_2/lora/S1_Dramatic_Lighting_v2.safetensors"
+        "S1_Dramatic_Lighting_v2.safetensors": "https://huggingface.co/mashirolvsky/exxxtra_fooocus/resolve/main/TEST_2/lora/S1_Dramatic_Lighting_v2.safetensors",
+        "inputwo.safetensors": "https://huggingface.co/mashirolvsky/exxxtra_fooocus/resolve/main/TEST_2/lora/inputwo.safetensors",
+        "ManicPixie_V1.safetensors": "https://huggingface.co/mashirolvsky/exxxtra_fooocus/resolve/main/TEST_2/lora/ManicPixie_V1.safetensors",
+        "GLOSS2.safetensors": "https://huggingface.co/mashirolvsky/exxxtra_fooocus/resolve/main/TEST_2/lora/GLOSS2.safetensors",
+        "VelmaXL.safetensors": "https://huggingface.co/mashirolvsky/exxxtra_fooocus/resolve/main/TEST_2/lora/VelmaXL.safetensors",
+        "rizz_draw_1_1.safetensors": "https://huggingface.co/mashirolvsky/exxxtra_fooocus/resolve/main/TEST_2/lora/rizz_draw_1_1.safetensors",
+        "boltedonlips.safetensors": "https://huggingface.co/mashirolvsky/exxxtra_fooocus/resolve/main/TEST_2/lora/boltedonlips.safetensors",
+        "BodyLicious.safetensors": "https://huggingface.co/mashirolvsky/exxxtra_fooocus/resolve/main/TEST_2/lora/BodyLicious.safetensors"
     },
     "vae_downloads": {
         "ponyDiffusionV6XL_vae.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/ponyDiffusionV6XL_vae.safetensors"
